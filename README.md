@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey 👋, I'm Ajay Dharmarajula</h1>
-<h3 align="center">Software Engineer with dreams like others, excellent problem solving skills and ability to perform well in a team. Passionate about coding and enjoy sharing my knowledge with others.</h3>
+<h3 align="center">Software Developer with dreams like others, excellent problem solving skills and ability to perform well in a team. Passionate about coding and enjoy sharing my knowledge with others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydr16&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydr16" /> </p>
 
